@@ -18,5 +18,4 @@ The real-time data from the ISS's position is captured via the api "Where the is
 The texture and the the Earths's heighmaps are from NASA. The 3d modeler from our team developed the ISS inspiring on the ones published by NASA, however, it was made from scratch.
 The skybox was generated using a program named "SpaceScape".
 ## Tracker demonstration
-This is a video of the presentation of our project in which you can see all its functionalities! <br>
-[![Watch the video](https://youtu.be/c3vs3Fqwsq0)]
+[This is a video of the presentation of our project in which you can see all its functionalities!](https://youtu.be/c3vs3Fqwsq0)

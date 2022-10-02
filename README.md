@@ -3,6 +3,7 @@
 [Click here to see our ISS TRACKER!](https://docs.gofionet.es/nasachallenge/)
 ## Documentation
 # Users interface
+<img src= "https://user-images.githubusercontent.com/74357760/193447932-34899938-e8f0-44e3-9021-db020d3cbaf4.png"> <br>
 The "GOAT ISS TRACKER" is a drag and click web application with two view modes, which can be switched by just clicking in the "change view" button <br>
 <image src= "https://user-images.githubusercontent.com/74357760/193447301-1a941e94-adf6-40ab-b748-2738c398e1e3.png"> <br>
 Furthermore the sun flare and the information panel of the ISS data can be deactivated or activated with the toggles which are deployed when the arroy in the down-right size of the screen is pressed. <br>

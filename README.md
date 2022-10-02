@@ -19,4 +19,4 @@ The texture and the the Earths's heighmaps are from NASA. The 3d modeler from ou
 The skybox was generated using a program named "SpaceScape".
 ## Tracker demonstration
 This is a video of the presentation of our project in which you can see all its functionalities! <br>
-[![Watch the video](https://youtu.be/c3vs3Fqwsq0)
+[![Watch the video](https://youtu.be/c3vs3Fqwsq0)]

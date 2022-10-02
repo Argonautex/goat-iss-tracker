@@ -9,4 +9,7 @@ The "GOAT ISS TRACKER" is a drag and click web application with two view modes, 
 Furthermore the sun flare and the information panel of the ISS data can be deactivated or activated with the toggles which are deployed when the arroy in the down-right size of the screen is pressed. <br>
 <image src= "https://user-images.githubusercontent.com/74357760/193447669-3c1b427d-7098-4b58-8557-1ff9dbc7be00.png"> <br>
 An info panel appears when the view is changed to track the ISS, with real-time data about the satellite's position, speed, altitude, etc. <br>
-<image src="https://user-images.githubusercontent.com/74357760/193447825-53277a46-a88a-4c2c-a11d-ee4e88c8f710.png">
+<image src="https://user-images.githubusercontent.com/74357760/193447825-53277a46-a88a-4c2c-a11d-ee4e88c8f710.png"> <br>
+# Files
+In this repository you will find two folders, the first one is  the [project folder]() where all the material we used are published, referring to the assets, materials, textures, scripts, animations, scenes, etc. If you want to edit our project and improove it feel free, it is open source :) <br>
+The second folder is the [web folder](), which includes the index.html file and its dependencies we used to host the project in our server. It is also public and open source.

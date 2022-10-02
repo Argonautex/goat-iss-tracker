@@ -13,3 +13,7 @@ An info panel appears when the view is changed to track the ISS, with real-time 
 # Files
 In this repository you will find two folders, the first one is  the [project folder](goat_iss_tracker_project) where all the material we used are published, referring to the assets, materials, textures, scripts, animations, scenes, etc. If you want to edit our project and improve it feel free, it is open source :) <br>
 The second folder is the [web folder](web_files), which includes the index.html file and its dependencies we used to host the project in our server. It is also public and open source.
+# Resources
+The real-time data from the ISS's position is captured via the api "Where the iss at?", which uploads the information once per second. <br>
+The texture and the the Earths's heighmaps are from NASA. The 3d modeler from our team developed the ISS inspiring on the ones published by NASA, however, it was made from scratch.
+The skybox was generated using a program named "SpaceScape".

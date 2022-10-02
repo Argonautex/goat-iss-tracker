@@ -12,4 +12,4 @@ An info panel appears when the view is changed to track the ISS, with real-time 
 <image src="https://user-images.githubusercontent.com/74357760/193447825-53277a46-a88a-4c2c-a11d-ee4e88c8f710.png"> <br>
 # Files
 In this repository you will find two folders, the first one is  the [project folder](goat_iss_tracker_project) where all the material we used are published, referring to the assets, materials, textures, scripts, animations, scenes, etc. If you want to edit our project and improove it feel free, it is open source :) <br>
-The second folder is the [web folder](), which includes the index.html file and its dependencies we used to host the project in our server. It is also public and open source.
+The second folder is the [web folder](web_files), which includes the index.html file and its dependencies we used to host the project in our server. It is also public and open source.

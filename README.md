@@ -20,11 +20,11 @@ The skybox was generated using a program named "SpaceScape". <br>
 # List programs used in the project:
 - Unity Engine
 - Blender
-- FUsion 360
+- Fusion 360
 - Plastic SCM
 - Github
 - Spacescape
-#Assets:
+# Assets:
 - [Sun (unity asset store)](https://assetstore.unity.com/packages/2d/textures-materials/sky/earth-planets-skyboxes-53752)
 - [Earth textures](https://visibleearth.nasa.gov/collection/1484/blue-marble)
 - [ISS foto](https://visibleearth.nasa.gov/collection/1484/blue-marble)
